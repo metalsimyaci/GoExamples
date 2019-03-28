@@ -1,0 +1,2 @@
+# GoExamples
+Go eğitim denemeleri
