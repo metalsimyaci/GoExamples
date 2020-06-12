@@ -1,0 +1,7 @@
+# filename: config.toml
+[database]
+server      = "localhost"
+port        = "5432"
+database    = "gocontacts"
+user        = "metalsimyaci"
+password    = "ronarazoro"
